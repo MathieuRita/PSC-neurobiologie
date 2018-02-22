@@ -29,6 +29,8 @@ data=data[:,:,:,:,5:-5]
 print(np.mean(data[:,:,8,:,10:32]))
 print(np.mean(data[:,:,14,:,10:32]))
 
+print("Coucou Ines")
+
 
 
 
