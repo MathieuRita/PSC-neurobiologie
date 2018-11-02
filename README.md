@@ -1,7 +1,10 @@
 # PSC-neurobiologie
-Caractérisation neuronale de la surdité chez les souris
 
-Répertoire des algorithmes utilisés pour le projet expérimental :
+Neuronal caracterisation of deafness in mice
 
-- Codage de sons
-- traitement des données
+Report available in the file : BIO01_Rapport_final (1).pdf
+
+Repositories :
+
+- imgca-master : data treatment
+- analyse.py : data analysis
